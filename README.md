@@ -3,28 +3,32 @@
 **Live Demo:** [https://vaishnavi-s-shinde.github.io/Quickcart-pro/](https://vaishnavi-s-shinde.github.io/Quickcart-pro/)
 
 ## ✨ Key Features
-- 🛍️ Product listing with **live search, filters (category, brand, price, rating)**
-- 🛒 **Shopping Cart** with quantity update, bulk discounts, and tax calculation
-- ❤️ **Wishlist** to save favorite items
-- 📜 **Order History** with downloadable PDF receipts
-- 👤 **User Authentication** (Login/Register) using `localStorage`
-- 🔥 **Flash Sale Timer** for urgency
-- 🎙️ **Voice Search** (Web Speech API)
-- 🌙 **Dark Mode** toggle
-- ⌨️ **Keyboard Shortcuts** (Ctrl+K for search, Ctrl+C for cart, 1-5 for quick add)
-- 🔄 **Product Comparison** (up to 3 products)
-- 📱 Fully **Responsive Design**
+- 🛍️ Product listing with live search, filters, and sorting
+- 🛒 Shopping cart with quantity management & bulk discounts
+- ❤️ Wishlist to save favorite items
+- 📜 Order history with downloadable PDF receipts
+- 👤 User Authentication (Login/Register) using localStorage
+- 🔥 Flash sale timer for urgency
+- 🎙️ Voice search support
+- 🌙 Dark mode toggle
+- ⌨️ Keyboard shortcuts (Ctrl+K for search, 1-5 for quick add)
+- 🔄 Product comparison (up to 3 items)
+- 💰 Referral & coupon system
+- 📱 Fully responsive design
 
 ## 🛠️ Tech Stack
 - HTML5, CSS3, JavaScript (ES6)
 - Bootstrap 5
 - Font Awesome Icons
-- html2pdf.js for PDF generation
+- html2pdf.js
 
 ## 🚀 How to Run Locally
-1. Clone the repository
-2. Open `index.html` in your browser
+1. Clone the repository: `git clone https://github.com/vaishnavi-s-shinde/Quickcart-pro.git`
+2. Open `index.html` in your browser.
 3. No build tools or server required!
 
-## 📸 Screenshots
-(आप यहां अपनी साइट के 2-3 स्क्रीनशॉट जोड़ सकते हैं)
+## 📸 Screenshot
+(यहां अपने ऐप का एक स्क्रीनशॉट जोड़ें)
+
+## 📞 Contact
+(आप चाहें तो अपना लिंक्डइन या ईमेल यहां लिख सकती हैं)
